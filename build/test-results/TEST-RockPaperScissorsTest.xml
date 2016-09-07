@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RockPaperScissorsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-09-07T22:34:56" hostname="epicodus-90.local" time="0.001">
+  <properties/>
+  <testcase name="playerOneTurn_PlayerOneWinsPaper_True" classname="RockPaperScissorsTest" time="0.001"/>
+  <testcase name="playerOneTurn_PlayerOneWinsScissors_True" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="playerOneTurn_PlayerOneWinsRock_True" classname="RockPaperScissorsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
